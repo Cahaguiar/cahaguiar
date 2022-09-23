@@ -1,7 +1,5 @@
 ### Hello World!! Eu sou a Camila, muito prazer 👋🏼
 
-- 🌱 Atualmente sou estudante Front-end na @Laboratória
-- 🐛 Estou em transição de carreira!!
 ##
 <div>
   <a href="https://github.com/Cahaguiar">
